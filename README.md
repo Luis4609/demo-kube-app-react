@@ -101,9 +101,9 @@ https://kubesphere.io/   Documentation/V.3.0/Minimal KUBESPHERE on KUBERNETES
 
 ### Documentation:
 
-https://kubesphere.io/docs/quick-start/enable-pluggable-components/#installing-on-kubernetes
-https://kubesphere.io/docs/quick-start/wordpress-deployment/
+- https://kubesphere.io/docs/quick-start/enable-pluggable-components/#installing-on-kubernetes
+- https://kubesphere.io/docs/quick-start/wordpress-deployment/
 
-https://10.152.183.167  KUBERNETES DASHBOARD
-http://192.168.53.14:30880 KUBESPHERE
-http://192.168.53.14:31151 WORDPRESS
+- https://10.152.183.167  KUBERNETES DASHBOARD
+- http://192.168.53.14:30880 KUBESPHERE
+- http://192.168.53.14:31151 WORDPRESS
